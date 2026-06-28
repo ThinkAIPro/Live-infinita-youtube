@@ -7,7 +7,7 @@ Tutorial passo a passo para fazer uma **live 24h no YouTube usando apenas o celu
 ## 📋 O que você vai precisar
 
 - Um celular Android (ou iPhone)
-- App **CameraFi Live** ([Apkpure](**https://play.google.com/store/apps/details?id=com.vaultmicro.camerafi.live**)
+- App **CameraFi Live** ([Apkpure](**https://play.google.com/store/apps/details?id=com.vaultmicro.camerafi.live**))
 - Um vídeo já pronto, salvo na galeria do celular, para ficar em loop
 - Um player de vídeo com **opção de repetição automática** (a maioria já tem)
 - Canal do YouTube **verificado** (necessário para transmitir)
